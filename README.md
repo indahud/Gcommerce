@@ -1,5 +1,5 @@
 # Ecommerce Platform
-    This is Ecommerce platform. 
+    This is Ecommerce platform. All the things are complete except Stripe payment gateway.
 # Stack
 - NextJS 
   for FrontEnd  
